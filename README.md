@@ -11,7 +11,7 @@ Desarrollo aplicaciones web, páginas profesionales y sistemas a medida para emp
 
 ## Tecnologías
 
-C#, .NET, JavaScript, React, Next.js, HTML, CSS, SQL Server y WordPress.
+C#, .NET, JavaScript, React, Next.js, HTML, CSS, SQL Server y WordPress entre otras.
 
 ## Contacto
 
