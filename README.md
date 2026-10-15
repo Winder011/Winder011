@@ -1,16 +1,16 @@
-## Hi there 👋
+Winder Garcia
+Desarrollador Web Full Stack | Soluciones Digitales
 
-<!--
-**Winder011/Winder011** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Desarrollo aplicaciones web, páginas profesionales y sistemas a medida para empresas y emprendedores.
 
-Here are some ideas to get you started:
+Proyectos
+Wodex System: Desarrollo web y soluciones digitales. [Visitar sitio](https://wodexsystem.com/)
+DRIVEX: Plataforma web de movilidad. [Visitar sitio](https://www.drivex.vip/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Tecnologías
+C#, .NET, JavaScript, React, Next.js, HTML, CSS, SQL Server y WordPress, entre otras.
+
+Contacto
+- **Correo:** winderavellan20@gmail.com
+- **LinkedIn:** [Winder Garcia](https://www.linkedin.com/in/winder-garcia-a183783a8/)
+- **Portafolio:** [wodexsystem.com](https://wodexsystem.com/)
